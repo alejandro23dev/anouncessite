@@ -1,0 +1,20 @@
+{
+    "cancelLabel": "Limpiar",
+    "applyLabel": "Aplicar",
+    "fromLabel": "Desde",
+    "toLabel": "Hasta",
+    "weekLabel": "Sem",
+    "customRangeLabel": "Personalizado",
+    "firstDay": 0,
+    "monthNames": [
+        "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio",
+        "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"
+    ],
+    "monthNamesShort": [
+        "Ene", "Feb", "Mar", "Abr", "May", "Jun",
+        "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"
+    ],
+	"daysOfWeek": [
+		"Lun", "Mar", "Mié", "Jue", "Vie", "Sáb", "Dom"
+	]
+}
